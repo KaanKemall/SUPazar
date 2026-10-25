@@ -19,4 +19,4 @@ We are building it with Flutter and Firebase for the CS310 Mobile Application De
 | --- | --- |
 | Kaan Kemal Başkan (Step 1 Coordinator) | 35330 |
 | Taha Dumanlı | 30981 |
-| Can Altay | TBA |
+| Can Altay | 34388 |
